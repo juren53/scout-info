@@ -2,7 +2,7 @@
 This repository contains information about the Moorebot Scout for:
 
 - use of the robot
-- for trouble shooting problems
+- for trouble shooting
 - for feature development
 
 It will include:
