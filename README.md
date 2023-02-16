@@ -1,5 +1,9 @@
 # scout-info
-This repository is a place with information about the Moorebot Scout can reside to provide insight for use and development of the Scout robot.
+This repository contains information about the Moorebot Scout for:
+
+- use of the robot
+- for trouble shooting problems
+- for feature development
 
 It will include:
 
